@@ -33,6 +33,10 @@
     ]
   },
   "flex-layout.row#qty-sku": {
+    "props": { 
+      "verticalAlign": "middle",
+      "preventVerticalStretch": true
+    },
     "children": [
       "sku-selector",
       "product-quantity",
