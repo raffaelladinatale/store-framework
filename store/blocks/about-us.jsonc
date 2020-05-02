@@ -70,8 +70,7 @@
         "iframe"
       ],
     "props": {
-        "tabId": "instagram",
-        "defaultActiveTab": true
+        "tabId": "instagram"
       }
 },
 "iframe": {
