@@ -81,6 +81,7 @@
       "initialSelection": "empty"
     }
   },
+  
   "buy-button#product": {
     "props": {
       "isOneClickBuy": true,
