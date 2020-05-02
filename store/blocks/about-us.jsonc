@@ -80,7 +80,6 @@
       "height": 1000
     }
   },
-  
 "flex-layout.col#text-about-us": {
     "children": [
         "rich-text#about-title",
