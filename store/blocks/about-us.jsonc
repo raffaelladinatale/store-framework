@@ -65,13 +65,6 @@
         "defaultActiveTab": true
       }
 },
-"iframe": {
-    "props": {
-      "src": "https://www.instagram.com/p/B973Qp8BacC/embed",
-      "width": 1000,
-      "height": 800
-    }
-  },
 "tab-content.item#home2":{
     "children": [
         "iframe"
@@ -81,6 +74,13 @@
         "defaultActiveTab": true
       }
 },
+"iframe": {
+    "props": {
+      "src": "https://www.instagram.com/p/B973Qp8BacC/embed",
+      "width": 800,
+      "height": 1000
+    }
+  },
 "flex-layout.col#text-about-us": {
     "children": [
         "rich-text#about-title",
